@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>Sarah's Notes</title>
+<style>
+body{background:#f8f8f8;color:#333;font-family:-apple-system,sans-serif;max-width:600px;margin:60px auto;padding:0 20px;line-height:1.7}
+</style>
+</head>
+<body>
+<h1>Sarah's Notes</h1>
+<p>须臾 · 拾字 · 碎碎念</p>
+
+<p>日期：2026.04.16</p>
+<p>内容：我终于成功做出自己的网页啦！</p>
+
+</body>
+</html>
